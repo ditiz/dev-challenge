@@ -20,4 +20,6 @@ def string_diamond(size):
         print(line)
 
 
+string_diamond(5)
 string_diamond(9)
+string_diamond(20)
